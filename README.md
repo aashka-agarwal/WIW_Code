@@ -32,7 +32,7 @@ Each CSV file has a header row labeling the included columns, which are:
 1. Clone the repository:
 
 ```python
-git clone https://github.com/aashka-agarwal/WIW_Code.git
+git clone https://github.com/aashka-agarwal/wiw_code.git
 ```
 
 2. Run the script:
