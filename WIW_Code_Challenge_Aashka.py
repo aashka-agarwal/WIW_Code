@@ -27,8 +27,6 @@ output_file = web_traffic_transfer(root_url)
 output_file.to_csv('wiw_final_traffic.csv',index=False) #output files saved as 'wiw_final_traffic.csv' on your local desktop.
 
 
-# In[ ]:
-
 
 
 
