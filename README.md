@@ -74,6 +74,7 @@ The script follows these main steps:
 3. **Pivot Operation:** Applies a pivot table operation on the combined DataFrame (combined_df) using 'user_id' as the index, 'path' as columns, and 'length' as values. Missing values are filled with 0 using fillna(0).
 
 4. **Output:** The processed data is saved in a CSV file named 'wiw_final_traffic.csv' in the same directory as the script. You can open this CSV file in Excel or any other data analysis tool for further review.
+   ![Screenshot](output.png)
 
 ## Authors
 
